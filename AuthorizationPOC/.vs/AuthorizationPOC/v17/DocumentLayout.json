@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|c:\\users\\beraw\\onedrive\\skrivebord\\software dev. security\\authorizationpoc\\authorizationpoc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|solutionrelative:authorizationpoc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|c:\\users\\beraw\\onedrive\\skrivebord\\software dev. security\\authorizationpoc\\authorizationpoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|solutionrelative:authorizationpoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|c:\\users\\beraw\\onedrive\\skrivebord\\software dev. security\\authorizationpoc\\authorizationpoc\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|solutionrelative:authorizationpoc\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|c:\\users\\beraw\\onedrive\\skrivebord\\software dev. security\\authorizationpoc\\authorizationpoc\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|solutionrelative:authorizationpoc\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|c:\\users\\beraw\\onedrive\\skrivebord\\software dev. security\\authorizationpoc\\authorizationpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|solutionrelative:authorizationpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|c:\\users\\beraw\\onedrive\\skrivebord\\software dev. security\\authorizationpoc\\authorizationpoc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|solutionrelative:authorizationpoc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|c:\\users\\beraw\\onedrive\\skrivebord\\software dev. security\\authorizationpoc\\authorizationpoc\\repository\\newsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|solutionrelative:authorizationpoc\\repository\\newsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|c:\\users\\beraw\\onedrive\\skrivebord\\software dev. security\\authorizationpoc\\authorizationpoc\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|solutionrelative:authorizationpoc\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|c:\\users\\beraw\\onedrive\\skrivebord\\software dev. security\\authorizationpoc\\authorizationpoc\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|solutionrelative:authorizationpoc\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|c:\\users\\beraw\\onedrive\\skrivebord\\software dev. security\\authorizationpoc\\authorizationpoc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1A1F07-6426-4BC2-9041-1D2F5218A755}|AuthorizationPOC\\AuthorizationPOC.csproj|solutionrelative:authorizationpoc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthorizationPOC\\appsettings.json",
+              "ToolTip": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\appsettings.json",
+              "RelativeToolTip": "AuthorizationPOC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T18:53:00.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "AuthorizationPOC\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "AuthorizationPOC\\Controllers\\ArticlesController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA9wC0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:01:44.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "AuthorizationPOC\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "AuthorizationPOC\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:02:05.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Program.cs",
+              "RelativeDocumentMoniker": "AuthorizationPOC\\Program.cs",
+              "ToolTip": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Program.cs",
+              "RelativeToolTip": "AuthorizationPOC\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:01:08.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Dockerfile",
+              "RelativeDocumentMoniker": "AuthorizationPOC\\Dockerfile",
+              "ToolTip": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Dockerfile",
+              "RelativeToolTip": "AuthorizationPOC\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-20T18:27:43.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AuthorizationPOC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\appsettings.Development.json",
+              "RelativeToolTip": "AuthorizationPOC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T18:53:11.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Repository\\NewsDbContext.cs",
+              "RelativeDocumentMoniker": "AuthorizationPOC\\Repository\\NewsDbContext.cs",
+              "ToolTip": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Repository\\NewsDbContext.cs",
+              "RelativeToolTip": "AuthorizationPOC\\Repository\\NewsDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:43:51.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "AuthorizationPOC\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Models\\Comment.cs",
+              "RelativeToolTip": "AuthorizationPOC\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:41:47.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "AuthorizationPOC\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Models\\Article.cs",
+              "RelativeToolTip": "AuthorizationPOC\\Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:41:35.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthorizationPOC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\beraw\\OneDrive\\Skrivebord\\Software dev. Security\\AuthorizationPOC\\AuthorizationPOC\\Models\\User.cs",
+              "RelativeToolTip": "AuthorizationPOC\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:41:16.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
